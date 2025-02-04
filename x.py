@@ -1,4 +1,5 @@
 a=2
 b=3
-c=a+b
+c=8
+d=a+b+c
 print(c)
